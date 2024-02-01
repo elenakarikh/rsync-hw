@@ -38,7 +38,7 @@ else
     echo "$(date "+%F, %T") Buckup ERROR" >> /var/log/backup.log
 fi
 ```
-ссылка на crontab [crontab](root)
+* ссылка на crontab [crontab](root)
 ![scrin](scrin3.png)
 ---
 ### Задание 3
